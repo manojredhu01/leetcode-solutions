@@ -1,2 +1,3 @@
-# leetcode-solutions
-My accepted LeetCode solutions in Java.
+# LeetCode Solutions
+
+A collection of my accepted LeetCode solutions implemented in Java.
