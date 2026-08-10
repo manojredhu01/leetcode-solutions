@@ -9,6 +9,7 @@ A collection of my accepted LeetCode solutions implemented in Java.
 | ------- |
 | [0007-reverse-integer](https://github.com/manojredhu01/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manojredhu01/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/manojredhu01/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of my accepted LeetCode solutions implemented in Java.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/manojredhu01/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manojredhu01/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manojredhu01/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manojredhu01/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
