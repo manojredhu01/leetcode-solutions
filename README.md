@@ -30,4 +30,8 @@ A collection of my accepted LeetCode solutions implemented in Java.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/manojredhu01/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/manojredhu01/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
